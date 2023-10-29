@@ -1,3 +1,6 @@
+> **WHY THIS FORK**
+> The original package has a [fatal issue](https://github.com/styled-components/babel-plugin-polished/issues/9) that causes crash when dev. Due to it haven't updated for a long time, so here we are.
+
 # babel-plugin-polished
 
 Compile away [polished](https://polished.js.org/) helpers.
